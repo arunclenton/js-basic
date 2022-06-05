@@ -5,5 +5,5 @@ if(x==y){
     console.log("both are  equal")
 }
 else{
-    console.log(" no tequal")
+    console.log(" not equal")
 }
